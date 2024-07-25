@@ -8,7 +8,7 @@ the pre-generated bitstream.
 
 # Optimization
 There are many steps one could take to optimize this project, most concered with calc_temp.v. One could consolidate some of the intermediate variables that are only used once, 
-consolidate the divider and adder IPs, and optimizing the timing of the state machine in calc_temp. 
+combine the divider and adder IPs, or optimize the timing of the state machine in calc_temp. 
 
 # Extra Files
 Initially, I did not use divider IP and had a custom module. Divider.v is still in the project, but not used.
