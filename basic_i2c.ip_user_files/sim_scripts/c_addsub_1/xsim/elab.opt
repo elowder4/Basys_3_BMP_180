@@ -1,0 +1,1 @@
+--incr --debug typical --relax --mt 2  -L xbip_utils_v3_0_11 -L c_reg_fd_v12_0_7 -L xbip_dsp48_wrapper_v3_0_5 -L xbip_pipe_v3_0_7 -L xbip_dsp48_addsub_v3_0_7 -L xbip_addsub_v3_0_7 -L c_addsub_v12_0_16 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot c_addsub_1 xil_defaultlib.c_addsub_1 xil_defaultlib.glbl -log elaborate.log

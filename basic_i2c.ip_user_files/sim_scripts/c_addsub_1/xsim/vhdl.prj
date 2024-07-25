@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../../basic_i2c.gen/sources_1/ip/c_addsub_1/sim/c_addsub_1.vhd" \
+
+# Do not sort compile order
+nosort
