@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../basic_i2c.ip_user_files/ipstatic" \
+"calc_temp_tb_func_synth.v" \
+"../../../../../basic_i2c.srcs/sim_1/new/i2c_master_tb.v" \
+"../../../../../basic_i2c.srcs/sim_1/new/divider_tb.v" \
+"../../../../../basic_i2c.srcs/sim_1/new/display_7_seg_tb.v" \
+"../../../../../basic_i2c.srcs/sim_1/new/top_tb.v" \
+"../../../../../basic_i2c.srcs/sim_1/new/calc_temp_tb.v" \
+
+# Do not sort compile order
+nosort

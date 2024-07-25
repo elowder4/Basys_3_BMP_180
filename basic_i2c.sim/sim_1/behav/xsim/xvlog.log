@@ -1,0 +1,33 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ethan/Vivado_Projects/basic_i2c/basic_i2c.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ethan/Vivado_Projects/basic_i2c/basic_i2c.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_wiz_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ethan/Vivado_Projects/basic_i2c/basic_i2c.srcs/sources_1/new/debouncer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module debouncer
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ethan/Vivado_Projects/basic_i2c/basic_i2c.srcs/sources_1/new/decoder_7_seg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_7_seg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ethan/Vivado_Projects/basic_i2c/basic_i2c.srcs/sources_1/new/display_7_seg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module display_7_seg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ethan/Vivado_Projects/basic_i2c/basic_i2c.srcs/sources_1/new/gen_4MHz_from_100MHz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module gen_4MHz_from_100MHz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ethan/Vivado_Projects/basic_i2c/basic_i2c.srcs/sources_1/new/i2c_master.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module i2c_master
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ethan/Vivado_Projects/basic_i2c/basic_i2c.srcs/sources_1/new/calc_temp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module calc_temp
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ethan/Vivado_Projects/basic_i2c/basic_i2c.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ethan/Vivado_Projects/basic_i2c/basic_i2c.srcs/sources_1/new/divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module divider
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ethan/Vivado_Projects/basic_i2c/basic_i2c.srcs/sources_1/new/to_twos.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ethan/Vivado_Projects/basic_i2c/basic_i2c.srcs/sources_1/new/to_norm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module to_norm
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ethan/Vivado_Projects/basic_i2c/basic_i2c.srcs/sim_1/new/calc_temp_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module calc_temp_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ethan/Vivado_Projects/basic_i2c/basic_i2c.srcs/sim_1/new/i2c_master_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module i2c_master_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ethan/Vivado_Projects/basic_i2c/basic_i2c.srcs/sim_1/new/divider_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module divider_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ethan/Vivado_Projects/basic_i2c/basic_i2c.srcs/sim_1/new/display_7_seg_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module display_7_seg_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ethan/Vivado_Projects/basic_i2c/basic_i2c.srcs/sim_1/new/top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_tb

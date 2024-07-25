@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../basic_i2c.gen/sources_1/ip/div_gen_0/sim/div_gen_0.vhd" \
+"../../../../basic_i2c.gen/sources_1/ip/div_gen_0/demo_tb/tb_div_gen_0.vhd" \
+"../../../../basic_i2c.gen/sources_1/ip/div_gen_1/sim/div_gen_1.vhd" \
+"../../../../basic_i2c.gen/sources_1/ip/div_gen_1/demo_tb/tb_div_gen_1.vhd" \
+"../../../../basic_i2c.gen/sources_1/ip/c_addsub_1/sim/c_addsub_1.vhd" \
+"../../../../basic_i2c.gen/sources_1/ip/c_addsub_0/sim/c_addsub_0.vhd" \
+
+# Do not sort compile order
+nosort
